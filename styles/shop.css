@@ -1,0 +1,68 @@
+header{
+   
+    background: rgba(229, 84, 115, 0.10);
+   
+
+
+
+}
+.banner{
+    padding: 50px 50px 0px 150px;
+    display: flex;
+    justify-content: space-between;
+   
+
+}
+.banner-content{
+    max-width: 700px;
+    padding-left: 40px;
+    padding-top: 50px;
+}
+.banner-title{
+color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 15px;
+padding-bottom: 15px;
+}
+.banner-description{
+      
+color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-top: 5px;
+
+}
+.banner.bd-photo{
+
+   
+    margin-bottom:0px ;
+    padding-right: 40px;
+    width: 635px;
+height: 800px;
+flex-shrink: 0;
+    /* margin-top: 50px ;
+    margin-right: 200px; */
+    /* margin-left: 1000px; */
+    
+}
+.btn-primary{
+border-radius: 8px;
+border: none;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-weight: 700;
+margin-top: 10px;
+}
